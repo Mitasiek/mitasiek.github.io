@@ -82,12 +82,12 @@ iframe {
 }
 
 footer {
-    height: 75px;
+    height: 50px;
     background-color: rgb(101, 167, 84);
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 60px;
 
 }
 
